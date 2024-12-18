@@ -3,6 +3,7 @@ print(10 // 3)
 print(10 * 3)
 print(10 % 3) #gives the result of the remainder of 10/3,  which is equal to 1
 print (10 ** 3)
+print(10 + 3 * 2 ** 2)
 
 
 x = 10
