@@ -13,7 +13,7 @@ while command !="quit":
             print("Car is already stopped")
         else:
             started = False
-            print("Car stopped...")
+            print("Car stopped<...>")
     elif command == "help":
         print('''
 start - to start the car
