@@ -13,27 +13,27 @@ else:
     
     
     
-answer = '''
-start - to start the car
-stop - to stop the car
-quit - to exit 
-'''
+#answer = '''
+#start - to start the car
+#stop - to stop the car
+#quit - to exit 
+#'''
     
     
     
-if guess == ">help":
-    print(answer)
-elif guess == ">start":
-    print ("Car started...Ready to go!")
-elif guess == ">stop":
-    print("Car Stopped.")
-elif guess == ">quit":
-    print()
-else:
-    print ("I don't understand that...")
+#if guess == ">help":
+#    print(answer)
+#elif guess == ">start":
+#    print ("Car started...Ready to go!")
+#elif guess == ">stop":
+#    print("Car Stopped.")
+#elif guess == ">quit":
+#    print()
+#else:
+#    print ("I don't understand that...")
     
     
     
     
-guess = (">" + input(''))
-print(guess)
+#guess = (">" + input(''))
+#print(guess)
